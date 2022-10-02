@@ -2,7 +2,7 @@
  BSQ Tests
 </h1>
 
-Test case maps used in evaluation sheet (during peer review) for the BSQ project.
+####  〖 Test case maps used in evaluation sheet (during peer review) for the BSQ project. 〗
 
 Usage:
 ```
@@ -11,7 +11,7 @@ Usage:
 ```
 
 ----
-Perl map generator
+#### 〖 Perl map generator 〗
 
 Format:  
 perl map_gen.pl \<x\> \<y\> \<density\> \<empty character\> \<obstacle character\> \<output file name\>
