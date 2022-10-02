@@ -1,5 +1,8 @@
-# bsq_test
-Test case maps used in evaluation sheet (during peer review) for the BSQ project.
+<h1 align="center">
+ BSQ Tests
+</h1>
+
+##Test case maps used in evaluation sheet (during peer review) for the BSQ project.
 
 Usage:
 ```
@@ -7,7 +10,8 @@ Usage:
 ./bsq bsq_test/tests/10 | grep x | wc -l
 ```
 
-Perl map generator
+----
+##Perl map generator
 
 Format:
 perl map_gen.pl <x> <y> <density> <empty character> <obstacle character> <output file name>
