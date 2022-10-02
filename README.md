@@ -14,7 +14,9 @@ Usage:
 #### 〖 Perl map generator 〗
 
 Format:  
-```perl map_gen.pl \<x\> \<y\> \<density\> \<empty character\> \<obstacle character\> \<output file name\>```
+```
+perl map_gen.pl \<x\> \<y\> \<density\> \<empty character\> \<obstacle character\> \<output file name\>
+```
 
 Usage:
 ```perl
