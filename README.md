@@ -1,9 +1,9 @@
 ## Perl map generator
-Format:  
+Usage:  
 ```
 perl map_gen.pl <x> <y> <density> <empty character> <obstacle character> <output file name>
 ```
-Usage:
+Example:
 ```perl
 perl map_gen.pl 10 10 0.4 . o 10x10.txt
 ```
