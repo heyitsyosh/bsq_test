@@ -2,7 +2,7 @@
  BSQ Tests
 </h1>
 
-####  〖 Test case maps used in evaluation sheet (during peer review) for the BSQ project. 〗
+####  Test case maps used in evaluation sheet (during peer review) for the BSQ project. 
 
 Usage:
 ```
