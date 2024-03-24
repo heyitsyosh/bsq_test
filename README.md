@@ -1,7 +1,3 @@
-<h1 align="center">
- BSQ Tests
-</h1>
-
 ## Perl map generator
 Format:  
 ```
